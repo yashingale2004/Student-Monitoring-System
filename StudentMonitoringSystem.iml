@@ -10,18 +10,31 @@
     <orderEntry type="module-library" exported="">
       <library>
         <CLASSES>
-          <root url="jar://$USER_HOME$/OneDrive/Desktop/Libraries/jcalendar-1.4.jar!/" />
-          <root url="jar://$USER_HOME$/OneDrive/Desktop/Libraries/mysql-connector-java-8.0.27.jar!/" />
-          <root url="jar://$USER_HOME$/OneDrive/Desktop/Libraries/rs2xml.jar!/" />
+          <root url="jar://$USER_HOME$/Libraries/Libraries/jcalendar-1.4.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" exported="">
+      <library>
+        <CLASSES>
+          <root url="jar://$USER_HOME$/Libraries/Libraries/mysql-connector-java-8.0.27.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" exported="">
+      <library>
+        <CLASSES>
+          <root url="jar://$USER_HOME$/Libraries/Libraries/rs2xml.jar!/" />
         </CLASSES>
         <JAVADOC />
         <SOURCES>
-          <root url="jar://$USER_HOME$/OneDrive/Desktop/Libraries/rs2xml.jar!/src" />
+          <root url="jar://$USER_HOME$/Libraries/Libraries/rs2xml.jar!/src" />
         </SOURCES>
       </library>
     </orderEntry>
-    <orderEntry type="library" exported="" name="jcalendar-1.4" level="project" />
-    <orderEntry type="library" exported="" name="mysql-connector-java-8.0.27" level="project" />
-    <orderEntry type="library" exported="" name="rs2xml" level="project" />
   </component>
 </module>
